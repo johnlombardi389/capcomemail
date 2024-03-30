@@ -1,3 +1,3 @@
-# Capmcom Email
+# Capcom Email
 
 HTML Email
