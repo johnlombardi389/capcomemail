@@ -31,7 +31,7 @@
     <mj-section background-color="#011f41" padding="10px">
       <mj-column>
         <mj-image
-          src="capimg/logo.png"
+          src="/images/logo.png"
           alt="Logo"
           width="228px"
           padding="20px"
@@ -105,7 +105,7 @@
       <mj-column>
         <mj-image
           href="#"
-          src="capimg/holidaysale.png"
+          src="/images/holidaysale.png"
           alt="Capcom Holiday Sale up to 87% off"
         />
       </mj-column>
@@ -172,7 +172,7 @@
       <mj-column width="200px" padding-top="20px">
         <mj-image
           href="#"
-          src="capimg/re4.png"
+          src="/images/re4.png"
           alt="Resident Evil 4 Mature 17+ ESRB"
         />
       </mj-column>
@@ -183,7 +183,7 @@
       <mj-column width="200px" padding-top="20px">
         <mj-image
           href="#"
-          src="capimg/sf6.png"
+          src="/images/sf6.png"
           alt="Street Fighter 6 Teen ESRB"
         />
       </mj-column>
@@ -228,7 +228,7 @@
     <mj-section>
       <mj-column padding-top="20px">
         <mj-image
-          src="capimg/monster.png"
+          src="/images/monster.png"
           alt="Monster Hunter World"
           width="125px"
           href="#"
@@ -250,7 +250,7 @@
 
       <mj-column padding-top="20px">
         <mj-image
-          src="capimg/dragons.png"
+          src="/images/dragons.png"
           alt="Dragon's Dogma Dark Arisen"
           width="125px"
           href="#"
@@ -272,7 +272,7 @@
 
       <mj-column padding-top="20px">
         <mj-image
-          src="capimg/stadium1.png"
+          src="/images/stadium1.png"
           alt="Capcom Arcade Stadium"
           width="125px"
           href="#"
@@ -294,7 +294,7 @@
 
       <mj-column padding-top="20px">
         <mj-image
-          src="capimg/stadium2.png"
+          src="/images/stadium2.png"
           alt="Capcom Arcade 2nd Stadium"
           width="125px"
           href="#"
@@ -320,7 +320,7 @@
       <mj-column padding-top="80px">
         <mj-image
           href="#"
-          src="capimg/razer.jpg"
+          src="images/razer.jpg"
           alt="Razer PC Peripheral Bundle Sweepstakes"
           padding-bottom="20px"
         />
@@ -342,7 +342,7 @@
       <mj-column width="25px">
         <mj-image
           padding-top="5px"
-          src="capimg/arrows.png"
+          src="/images/arrows.png"
           alt="Arrow pointing to text"
         />
       </mj-column>
@@ -360,7 +360,7 @@
       <mj-column width="25px">
         <mj-image
           padding-top="5px"
-          src="capimg/arrows.png"
+          src="/images/arrows.png"
           alt="Arrow pointing to text"
         />
       </mj-column>
@@ -415,7 +415,7 @@
       <mj-column width="25px">
         <mj-image
           padding-top="5px"
-          src="capimg/arrows.png"
+          src="/images/arrows.png"
           alt="Arrow pointing to text"
         />
       </mj-column>
@@ -460,7 +460,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="capimg/facebook.png"
+          src="/images/facebook.png"
           alt="Facebook link"
         />
       </mj-column>
@@ -469,7 +469,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="capimg/instagram.png"
+          src="/images/instagram.png"
           alt="Instagram link"
         />
       </mj-column>
@@ -478,7 +478,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="capimg/Twitter.png"
+          src="/images/Twitter.png"
           alt="Twitter link"
         />
       </mj-column>
@@ -487,7 +487,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="capimg/youtube.png"
+          src="/images/youtube.png"
           alt="YouTube link"
         />
       </mj-column>
@@ -496,7 +496,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="capimg/Twitch.png"
+          src="/images/Twitch.png"
           alt="Twitch link"
         />
       </mj-column>
