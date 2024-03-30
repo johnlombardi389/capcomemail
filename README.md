@@ -1,1 +1,3 @@
-# capcomemail
+# Capmcom Email
+
+HTML Email
