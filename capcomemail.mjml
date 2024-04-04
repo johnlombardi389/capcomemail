@@ -478,7 +478,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="images/Twitter.png"
+          src="images/twitter.png"
           alt="Twitter link"
         />
       </mj-column>
@@ -496,7 +496,7 @@
           width="25px"
           padding="5px"
           href="#"
-          src="images/Twitch.png"
+          src="images/twitch.png"
           alt="Twitch link"
         />
       </mj-column>
