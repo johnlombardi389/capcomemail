@@ -14,7 +14,7 @@ Tools used to create this email:
 
 ## Images
 
-![Project Preview Image](/src/assets/preview.png)
+![Project Preview Image](/images/preview.png)
 
 ## Author
 
