@@ -11,6 +11,7 @@ Tools used to create this email:
 - MJML
 - Visual Studio Code
 - Figma
+- Git
 
 ## Images
 
