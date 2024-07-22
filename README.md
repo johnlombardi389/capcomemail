@@ -21,5 +21,5 @@ Tools used to create this email:
 
 John Lombardi
 
-- [Portfolio](https://johnlombardi389.github.io/emaildev/)
+- [Portfolio](https://johnlombardi389.github.io/dev/)
 - [GitHub](https://github.com/johnlombardi389)
